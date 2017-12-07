@@ -1,0 +1,11 @@
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
+# Except index.html
+!index.html
+!companies
+!news
+!clinics
+!cars
+!users
